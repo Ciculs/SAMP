@@ -1,0 +1,2 @@
+AddCharModel(305, 20001, "Marshmello.dff", "Marshmello.txd");
+AddCharModel(305, 20002, "ZKIN.dff", "ZKIN.txd");
