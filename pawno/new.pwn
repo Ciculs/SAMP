@@ -1,8 +1,5 @@
-// Filterscript ...
-// Facebook: fb.me/NickyZ9400
-// Yahoo: NickyZ9400@yahoo.com.vn
-// Google: NickyZ9400@gmail.com
-
+// This is a comment
+// uncomment the line below if you want to write a filterscript
 //#define FILTERSCRIPT
 
 #include <a_samp>

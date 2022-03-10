@@ -18,7 +18,7 @@ forward OnPlayerModelSelection(playerid, response, listid, modelid);
 forward OnPlayerModelSelectionEx(playerid, response, extraid, modelid);
 
 // settings static lists
-#define mS_TOTAL_ITEMS         	30000 // Max amount of items from all lists
+#define mS_TOTAL_ITEMS         	1000 // Max amount of items from all lists
 #define mS_TOTAL_LISTS			20 // Max amount of lists
 #define mS_TOTAL_ROT_ZOOM		100 // Max amount of items using extra information like zoom or rotations
 
@@ -622,7 +622,7 @@ stock LoadModelSelectionMenu(f_name[])
 		idxx = 0;
 		if(!line[0]) continue;
 		new mID = strval( mS_strtok(line,idxx) );
-		if((-30000 <= mID <= -1000) || (0 <= mID <= 30000))  
+		if(0 <= mID < 20000)
 		{
 			gItemList[tmp_ItemAmount][mS_ITEM_MODEL] = mID;
 		
