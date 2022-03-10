@@ -37185,3 +37185,129 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [00:15:01] [CMD] [Minh Kiet]: /vaosuaxe
 [00:15:08] [He Thong] Da luu lai thong tin tai khoan thanh cong.
 [00:15:16] [part] Minh_Kiet has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:31:09] password = ""  (string)
+[00:31:09] weburl = "www.sa-mp.com"  (string)
+[00:31:09] 
+[00:31:09] Server Plugins
+[00:31:09] --------------
+[00:31:09]  Loading plugin: streamer
+[00:31:09] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[00:31:09]   Loaded.
+[00:31:09]  Loading plugin: mysql
+[00:31:09]  >> plugin.mysql: R33 successfully loaded.
+[00:31:09]   Loaded.
+[00:31:09]  Loading plugin: mysql2
+[00:31:09]   Failed.
+[00:31:09]  Loading plugin: sscanf
+[00:31:09] 
+
+[00:31:09]  ===============================
+
+[00:31:09]       sscanf plugin loaded.     
+
+[00:31:09]    (c) 2009 Alex "Y_Less" Cole
+
+[00:31:09]    0.3d-R2 500 Players "dnee"
+
+[00:31:09]  ===============================
+
+[00:31:09]   Loaded.
+[00:31:09]  Loading plugin: crashdetect
+[00:31:09]   CrashDetect v4.18.1 is OK.
+[00:31:09]   Loaded.
+[00:31:09]  Loading plugin: whirlpool
+[00:31:10]  
+[00:31:10]  ==================
+[00:31:10]  
+[00:31:10]   Whirlpool loaded
+[00:31:10]  
+[00:31:10]  ==================
+[00:31:10]  
+[00:31:10]   Loaded.
+[00:31:10]  Loaded 5 plugins.
+
+[00:31:10] 
+[00:31:10] Ban list
+[00:31:10] --------
+[00:31:10]  Loaded: samp.ban
+[00:31:10] 
+[00:31:10] 
+[00:31:10] Filterscripts
+[00:31:10] ---------------
+[00:31:10]   Loading filterscript 'exterior.amx'...
+[00:31:11]   Loading filterscript 'interior.amx'...
+[00:31:11]   Loaded 2 filterscripts.
+
+[00:31:12]  
+[00:31:12]  ======================================= 
+[00:31:12]  |                                     | 
+[00:31:12]  |        YSI version 3.01.0002        | 
+[00:31:12]  |        By Alex "Y_Less" Cole        | 
+[00:31:12]  |                                     | 
+[00:31:12]  ======================================= 
+[00:31:12]  
+[00:31:12] Dang chuan bi tai gamemode, xin vui long cho doi...
+[00:31:16] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[00:31:16] [MySQL] (MainPipeline) Fatal Error! Could not connect to MySQL: Host 127.0.0.1 - DB: LS-RP - User: root
+[00:31:16] [MySQL] Note: Make sure that you have provided the correct connection credentials.
+[00:31:16] [MySQL] Error number: 2003
+[00:31:16] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[00:31:16] [LoadCrates] Load Query Sent
+[00:31:16] [LoadHouses] Loading data from database...
+[00:31:16] [LoadDynamicDoors] Loading data from database...
+[00:31:16] [LoadDynamicMapIcons] Loading data from database...
+[00:31:16] [LoadMailboxes] Loading data from database...
+[00:31:16] [LoadBusinesses] Loading data from database...
+[00:31:16] [LoadAuctions] Loading data from database...
+[00:31:16] [LoadTxtLabels] Loading data from database...
+[00:31:16] [LoadPlants] Loading data from database...
+[00:31:16] [SpeedCameras] Loading data from database...
+[00:31:16] [LoadPayNSprays] Loading data from database...
+[00:31:16] [LoadArrestPoints] Loading data from database...
+[00:31:16] [LoadImpoundPoints] Loading data from database...
+[00:31:16] [LoadRelayForLifeTeams] Loading data from database...
+[00:31:16] [LoadBusinessSales] Loading data from database...
+[00:31:16] -mSelection- Canh Bao: Khong co item duoc tim thay trong tap tin: otos.txt
+[00:31:16] [LoadTurfWars] 0 turfs loaded.
+[00:31:16] [LoadPaintballArenas] 10 paintball arenas loaded.
+[00:31:16] [LoadEventPoints] 0 event points loaded.
+[00:31:16] [LoadGates] Loading data from database...
+[00:31:16] [LoadElevatorStuff] 20 floors loaded.
+[00:31:16] [LoadFamilies] Dang tai du lieu tu database...
+[00:31:16] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[00:31:16] [MiscLoad] Misc Loaded
+[00:31:16] Resetting news...
+[00:31:16] Resetting default server variables..
+[00:31:16] Adjusted the server time...
+[00:31:17] [Streamer] Loading Dynamic Static Vehicles...
+[00:31:17] [Streamer] Dynamic Static Vehicles has been loaded.
+[00:31:17] [Streamer] Loading Dynamic Pickups...
+[00:31:17] [Streamer] Dynamic Pickups has been loaded.
+[00:31:17] [Streamer] Loading 3D Text Labels...
+[00:31:17] [Streamer] Dynamic 3D Text Labels has been loaded.
+[00:31:17] [Streamer] Loading Dynamic Buttons...
+[00:31:17] [Streamer] Dynamic Buttons has been loaded.
+[00:31:17] [Streamer] Loading Dynamic Objects...
+[00:31:17] [Streamer] Dynamic Objects has been loaded.
+[00:31:17] [Textdraws] Loading Textdraws...
+[00:31:17] [Textdraws] Loaded textdraws.
+[00:31:17] [Dynamic Groups] Loading Dynamic Groups...
+[00:31:17] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[00:31:17] 
+---------------------------------------------------------------------------
+[00:31:17] Gamemode LS:Gaming Roleplay da tai thanh cong voi phien ban Version 1.0
+[00:31:17] ---------------------------------------------------------------------------
+[00:31:17] Number of vehicle models: 24
+[00:31:17] --- Server Shutting Down.
